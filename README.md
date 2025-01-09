@@ -7,15 +7,15 @@
 ---
 
 ## 팀원 소개 🌟
-
-| 이름       | GitHub ID      | 이미지       |
-| ---------- | -------------- | ------------ |
-| 🧑‍💻 박주은     | [@pprain1999](https://github.com/pprain1999)        | ![image](https://github.com/user-attachments/assets/67954a06-e180-492e-b7dd-202668a9b09c) |
-| 👩‍💻 서예찬     | [@syc9811](https://github.com/syc9811)      | ![image](https://github.com/user-attachments/assets/efd43c51-4666-4dff-83ce-8ff0c6c84b6f)|
-| 👩‍💻 이다인     | [@daainn](https://github.com/daainn)      | ![image](https://github.com/user-attachments/assets/1390df3b-bfc8-44fe-9220-1aa38884492f)|
-| 👨‍💻 조민훈     | [@alche22](https://github.com/alche22)        | ![image](https://github.com/user-attachments/assets/34347395-6119-44b0-9031-71d17fb7ac18)|
-| 👩‍💻 조이현     | [@SIQRIT](https://github.com/SIQRIT)      | ![image](https://github.com/user-attachments/assets/b152d0e8-6ae8-476d-a443-37c59199ff27)|
-
+<table>
+  <tr>
+    <td>🧑‍💻 박주은<br>[@pprain1999](https://github.com/pprain1999)<br><img src="https://github.com/user-attachments/assets/67954a06-e180-492e-b7dd-202668a9b09c" width="100"></td>
+    <td>👩‍💻 서예찬<br>[@syc9811](https://github.com/syc9811)<br><img src="https://github.com/user-attachments/assets/efd43c51-4666-4dff-83ce-8ff0c6c84b6f" width="100"></td>
+    <td>👩‍💻 이다인<br>[@daainn](https://github.com/daainn)<br><img src="https://github.com/user-attachments/assets/1390df3b-bfc8-44fe-9220-1aa38884492f" width="100"></td>
+    <td>👨‍💻 조민훈<br>[@alche22](https://github.com/alche22)<br><img src="https://github.com/user-attachments/assets/34347395-6119-44b0-9031-71d17fb7ac18" width="100"></td>
+    <td>👩‍💻 조이현<br>[@SIQRIT](https://github.com/SIQRIT)<br><img src="https://github.com/user-attachments/assets/b152d0e8-6ae8-476d-a443-37c59199ff27" width="100"></td>
+  </tr>
+</table>
 ---
 
 ## 2. 프로젝트 개요 🛠️
